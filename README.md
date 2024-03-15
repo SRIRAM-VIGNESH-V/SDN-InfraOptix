@@ -28,5 +28,6 @@ To establish the Software-Defined Networking (SDN) environment, follow these ste
 ### Start the SDN Controller
 
 On VM1, initiate the SDN controller using the following command:
-''' ryu-manager ryu.app.simple_switch_13 '''
+'''bash
+ryu-manager ryu.app.simple_switch_13 '''
 
