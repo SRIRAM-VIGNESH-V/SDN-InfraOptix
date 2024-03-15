@@ -122,7 +122,6 @@ This architecture leverages the shared filesystem between Mininet hosts and the 
 - Visualization of collected metrics can be achieved using tools such as Grafana, providing insights into network health and performance trends.
 
 ## Interface telegraph to InfluxDB
-
-- Official documentation: [Use Telegraf](https://docs.influxdata.com/influxdb/v2/write-data/no-code/use-telegraf/)
-- InfluxDB ping plugin for Telegraph interface: [InfluxDB Ping Plugin](https://docs.influxdata.com/influxdb/cloud/reference/cli/influx/ping/)
+Official documentation :
+https://docs.influxdata.com/influxdb/v2/write-data/no-code/use-telegraf/
 
