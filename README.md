@@ -58,7 +58,7 @@ Mininet is a network emulator that facilitates the creation of virtual SDN netwo
 
 Ryu is an open-source SDN controller that provides a framework for building SDN applications. The install_ryu.sh script automates the installation of the Ryu SDN controller, ensuring it is properly configured and ready for use. With Ryu installed, you can deploy custom SDN applications and manage network traffic efficiently within your SDNinfraOptix environment.
 
-# SDN Scenario Setup with Mininet
+## SDN Scenario Setup with Mininet
 
 ## ScenarioBasicSetup.py with Mininet
 
@@ -72,10 +72,6 @@ The `scenario_basic.py` script sets up a basic Software-Defined Networking (SDN)
 ### Controller Setup
 
 - Adds a RemoteController named c0 with a specified IP address, protocol, and port.
-
-### Network Building
-
-- Builds the defined network topology.
 
 ### Controller and Switch Activation
 
