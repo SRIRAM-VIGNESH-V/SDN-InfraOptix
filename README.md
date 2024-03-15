@@ -7,6 +7,8 @@ SDNInfraOptix project focuses on automating the monitoring of SDN infrastructure
 To set up the virtual machines (VMs) for SDNinfraOptix, follow these steps:
 
 ### Execute the 'vagrant.conf' File
+![image](https://github.com/SRIRAM-VIGNESH-V/SDNInfraOptix/assets/159048515/25e3a3ca-760b-4983-9c11-abc611efae46)
+
 
 The 'vagrant.conf' file contains configuration settings for provisioning the VMs. Before starting the VMs, it's essential to execute this file. Ensure that you allocate sufficient memory for the VMs in the configuration.
 
