@@ -96,6 +96,8 @@ Telegraf is a lightweight agent designed for collecting, processing, and forward
 The Telegraf daemon serves as the background process of Telegraf, operating continuously to collect, process, and transmit metrics from diverse sources to specified destinations. Its modular design facilitates seamless integration with different devices and protocols, making it a versatile solution for monitoring network health.
 
 ### Integration with SDNinfraOptix
+![image](https://github.com/SRIRAM-VIGNESH-V/SDNInfraOptix/assets/159048515/790a5d6e-bcb8-4267-acd3-35d57ae24e0a)
+
 
 In the SDNinfraOptix project, Telegraf is utilized to monitor the network performance within the SDN environment. The architecture involves running Telegraf instances on Mininet hosts and the host VM, facilitating the collection and transmission of metrics to InfluxDB for analysis and visualization.
 
