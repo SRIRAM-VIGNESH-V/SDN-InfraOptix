@@ -105,7 +105,7 @@ In the SDNinfraOptix project, Telegraf is utilized to monitor the network perfor
 
 #### Mininet Host (Host 4)
 
-- Telegraf is installed and configured on Mininet's Host 4 to gather ICMP data.
+- Telegraf is installed and configured on Mininet's Host 4 to gather data.
 - The output of this Telegraf instance is directed to a file located in the VM's home directory.
 
 #### Host VM
