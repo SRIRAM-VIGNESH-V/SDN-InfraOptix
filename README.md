@@ -60,8 +60,6 @@ Ryu is an open-source SDN controller that provides a framework for building SDN 
 
 ## SDN Scenario Setup with Mininet
 
-## ScenarioBasicSetup.py with Mininet
-
 The `scenario_basic.py` script sets up a basic Software-Defined Networking (SDN) scenario using the Mininet network emulator. Here's what it does:
 
 ### Network Topology Configuration
