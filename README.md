@@ -126,4 +126,4 @@ Official documentation :
 https://docs.influxdata.com/influxdb/v2/write-data/no-code/use-telegraf/
 
 ## License:
-MIT License GIthub
+MIT License Github
